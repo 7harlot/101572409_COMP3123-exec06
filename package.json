@@ -1,0 +1,27 @@
+{
+  "name": "101572409_COMP3123-exec06",
+  "version": "1.0.0",
+  "description": "Week06 Exercise as note taking application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/notes.test.js"
+  },
+  "keywords": [
+    "expressJS",
+    "nodeJS",
+    "week06",
+    "API",
+    "mongoDB",
+    "REST",
+    "mongoose",
+    "notes"
+  ],
+  "author": "101572409",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  }
+}
